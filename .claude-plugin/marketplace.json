@@ -1,0 +1,13 @@
+{
+  "name": "roy-plugins",
+  "owner": {
+    "name": "Roy"
+  },
+  "plugins": [
+    {
+      "name": "hello-plugin",
+      "source": "./plugins/hello-plugin",
+      "description": "測試用外掛"
+    }
+  ]
+}
