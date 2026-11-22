@@ -1,0 +1,8 @@
+{
+  "name": "hello-plugin",
+  "description": "測試用外掛",
+  "version": "1.0.0",
+  "author": {
+    "name": "Roy"
+  }
+}
