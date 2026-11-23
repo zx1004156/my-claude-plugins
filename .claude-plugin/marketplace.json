@@ -8,6 +8,11 @@
       "name": "hello-plugin",
       "source": "./plugins/hello-plugin",
       "description": "測試用外掛"
+    },
+    {
+      "name": "japanese-study",
+      "source": "./plugins/japanese-study",
+      "description": "Roy 的日文學習工具"
     }
   ]
 }
